@@ -13,7 +13,7 @@
   ### Dashboard
   ![Shopping Trends Dsahboard](https://github.com/user-attachments/assets/2e256de5-845a-4c46-b28a-2130a3a58b41)
 
-  The  PowerBI dashboard can be viewed here: [](
+  The  PowerBI dashboard can be viewed here: [Shopping Trends Dashboard](https://github.com/Oluwaferanmi-Akinwale/-Shopping-Trends-Dashboard/raw/refs/heads/main/Shopping%20Trends%20Dashboard.pbix)
 
 ### Project Overview
 ---
