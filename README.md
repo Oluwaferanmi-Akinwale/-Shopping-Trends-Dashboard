@@ -22,7 +22,7 @@ This dashboard analyzes customer shopping behavior, showcasing trends by product
 
 ### Data Sources
 
-Shopping Trends Data: The primary dataset used for this analysis is the “shopping_trends.xlsx” file, containing detailed transaction data across various product categories, customer demographics, and purchase channels and the data was gotten from Kaggle [Download here](https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset?resource=download)
+Shopping Trends Data: The primary dataset used for this analysis is the “shopping_trends.xlsx” file, containing detailed transaction data across various product categories, customer demographics, and purchase channels and the data was gotten from Kaggle: [Download here](https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset?resource=download)
 
 ### Tools
 
