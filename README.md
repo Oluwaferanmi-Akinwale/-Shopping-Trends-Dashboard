@@ -16,12 +16,10 @@
 This dashboard analyzes customer shopping behavior, showcasing trends by product category, size, payment method, season, and location. It highlights key metrics like total purchases, top states, and age demographics, offering insights to optimize marketing, logistics, and inventory for improved customer satisfaction and revenue growth.
 
 ### Data Sources
----
 
 Shopping Trends Data: The primary dataset used for this analysis is the “shopping_trends.xlsx” file, containing detailed transaction data across various product categories, customer demographics, and purchase channels and the data was gotten from Kaggle [Download here](https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset?resource=download)
 
 ### Tools
----
 
 - Excel - Data Cleaning
    - [Download here](https://microsoft.com)
@@ -30,14 +28,12 @@ Shopping Trends Data: The primary dataset used for this analysis is the “shopp
 
   
 ### Data Cleaning/Preparation
----
 
 In the initial data preparation phase, we performed the following tasks:
 1.	Data loading and inspection
 2.	Data cleaning and formatting
 
 ### Exploratory Data Analysis
----
 
 EDA involved exploring the shopping trends data to answere key questions, such as;
 
@@ -50,7 +46,6 @@ EDA involved exploring the shopping trends data to answere key questions, such a
 
 
 ### Results/Findings
----
 
 The analysis results are summarized as follows:
 1. Popular Categories and Sizes: Clothing and accessories are the top-performing categories, with medium and large sizes driving most purchases.
@@ -61,7 +56,6 @@ The analysis results are summarized as follows:
 6. Shipping Preferences: Free shipping is the most popular, especially for larger sizes, suggesting customers prioritize cost-effective delivery options.
 
 ### Recommendations
----
 
 Based on the analysis, we recommend the following actions:
 - Targeted Marketing: Focus marketing efforts on the 25–34 age group and high-performing states like Nevada and North Dakota to maximize ROI.
