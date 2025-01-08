@@ -22,7 +22,7 @@ Shopping Trends Data: The primary dataset used for this analysis is the “shopp
 
 - Excel - Data Cleaning
    - [Download here](https://microsoft.com)
-- PowerBI - Data Visualization
+- PowerBI - Creating Reports
    - [Download here](https://microsoft.com)
 
   
