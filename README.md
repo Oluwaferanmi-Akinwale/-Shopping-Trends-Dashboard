@@ -10,6 +10,11 @@
 - [Results/Findings](#resultsfindings)
 - [Recommendations](#recommendations)
 
+  ### Dashboard
+  ![Shopping Trends Dsahboard](https://github.com/user-attachments/assets/2e256de5-845a-4c46-b28a-2130a3a58b41)
+
+  The  PowerBI dashboard can be viewed here: [](
+
 ### Project Overview
 ---
 
