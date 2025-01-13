@@ -40,7 +40,7 @@ In the initial data preparation phase, we performed the following tasks:
 
 ### Exploratory Data Analysis
 
-EDA involved exploring the shopping trends data to answere key questions, such as;
+EDA involved exploring the shopping trends data to answer key questions, such as;
 
 - What are the most popular product categories and sizes?
 - Which seasons drive the highest purchases?
